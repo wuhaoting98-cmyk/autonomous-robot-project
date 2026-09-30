@@ -23,8 +23,8 @@
 
 ## Current Progress
 
-- [ ] 整理各模組 Input / Output
-- [ ] 建立 GitHub 專案
+- [x] 整理各模組 Input / Output
+- [x] 建立 GitHub 專案
 - [ ] 建立 Ubuntu / ROS2 開發環境
 - [ ] 確認 DeepRacer ROS2 通訊
 - [ ] 建立 Discord ↔ ROS2 通訊
